@@ -7,6 +7,7 @@
 
 ##### Thanks to https://github.com/MartinThoma/cfg_load best practices
 * The recommended way to run TDD_DjangoProject is run the 'scrapescript.py' which is inside the /scraper folder
+# SOURCE Test-Driven Development with Django by Packt Publishing Kevin Harvey
 
 ## Installation
 
