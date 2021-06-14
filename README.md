@@ -6,12 +6,12 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ##### Thanks to https://github.com/MartinThoma/cfg_load best practices
-* The recommended way to run TDD_DjangoProject is run the 'scrapescript.py' which is inside the /scraper folder
+* The recommended way to run jmad_project is run the 'python manage.py runserver' which is inside the /??? folder
 # SOURCE Test-Driven Development with Django by Packt Publishing Kevin Harvey
 
 ## Installation
 
-- Clone ``https://github.com/datatalking/TDD_DjangoProject.git``
+- Clone ``https://github.com/datatalking/jmad_project.git``
 - Open cloned directory.
 - Run ``python manage.py migrate``
 - Run ``python manage.py collectstatic``
